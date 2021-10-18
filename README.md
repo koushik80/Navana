@@ -13,11 +13,10 @@
    
 <h2 align="center">Project for building a dynamic website for a Sourcing Company</h2>
 
- <h2 align="center">Description:</h3>
+ <h2 align="left">Description:</h3>
 
-  • The website is made for a company Navana includes blog and user registration and login system. It was created as the basis for my training project. The  
+  • The website is made for a company Navana includes blog and user registration and login system. It was created as the basis for my training project. The    
     implementation strives to be simple.
-  
   Goals:
  
   • To learn and build dynamic webpage

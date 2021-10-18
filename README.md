@@ -14,7 +14,7 @@
 
 
 
- Introduction:
+ # Introduction:
 
   • Project for building a dynamic website for a Sourcing Company
 
@@ -73,12 +73,14 @@
 
   Contribution:
 
- • Open issue, discuss proposal
+ • Open issue
+ • Discuss proposal
  •	Change code and update tests
  •	Review changes
  •	Send pull request
- •	
+ •	Commit
 
   License: 
+  
   • MIT
 

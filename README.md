@@ -15,22 +15,21 @@
 
 <h3 align="left">Description:</h3>
 
-  • The website is made for a company Navana includes blog and user registration and login system. It was created as the basis for my training project. 
-    The implementation strives to be simple.
+  <p>The website is made for a company Navana includes blog and user registration and login system. It was created as the basis for my training project. 
+     The implementation strives to be simple.</p>
     
-    
-  Goals:
+<h3 align="left"> Goals:</h3>
  
-  • To learn and build dynamic webpage
-  • Design as it is responsive	
-  • Responsive Navigation bar
-  • SQL access
-  • To create user authentication, login, user registration with verified email
-  • Resetting forgotten password for the user
-  • Version Control
-  • Deployment in Azure
-  • Contact with the company
-  • Gain knowledge of frontend and backend concepts
+  <p>To learn and build dynamic webpage</p>
+  <p>Design as it is responsive</p>	
+  <p>Responsive Navigation bar</p>
+  <p>SQL access</p>
+  <p>To create user authentication, login, user registration with verified email</p>
+  <p>Resetting forgotten password for the user</p>
+  <p>Version Control</p>
+  <p>Deployment in Azure</p>
+  <p>Contact with the company</p>
+  <p>Gain knowledge of frontend and backend concepts</p>
   
   
  Tecnologies

@@ -71,7 +71,7 @@
  •	Display user data to logged-in users
  •	Building logout
 
-  Contributing:
+  Contribution:
 
  • Open issue, discuss proposal
  •	Change code and update tests

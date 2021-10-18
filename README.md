@@ -4,9 +4,9 @@
 
    Introduction
    Description
+   Goals
    Tecnologies
    Instruction
-   Goals
    User Registration & Login System Features
    Login System
    Contributing
@@ -22,11 +22,28 @@
 
   • The website is made for a company Navana includes blog and user registration system. It was created as the basis for my training project. The implementation         strives to be simple.
   
+  Goals:
+ 
+  • To learn and build dynamic webpage
+  • Design as it is responsive	
+  • Responsive Navigation bar
+  • SQL access
+  • To create user authentication, login, user registration with verified email
+  • Resetting forgotten password for the user
+  • Version Control
+  • Deployment in Azure
+  • Contact with the company
+  • Gain knowledge of frontend and backend concepts
+  •
+  
  Tecnologies
  
-  •	
-  •	
-  •
+  • HTML
+  • CSS
+  • JS
+  • PHP
+  • MySQL
+  • Git Version Control & Azure
  
  Instruction:
 
@@ -34,11 +51,6 @@
   •	
   •	
   
- Goals:
- 
-  •	
-  •	
-  •
 
  User Registration & Login System Features:
 

@@ -1,8 +1,7 @@
 # Hi there here goes below my Project information 👋
 
-# Table of Content:
+<h1 align="center">Table of Content</h1>
 
-   Title
    Description
    Goals
    Tecnologies
@@ -11,11 +10,8 @@
    Login System
    Contributing
    License
-<h1 align="center">Project title</h1>
-
- Title:
-
-  • Project for building a dynamic website for a Sourcing Company
+   
+<h2 align="center">Project for building a dynamic website for a Sourcing Company</h2>
 
  Description: 
 

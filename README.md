@@ -40,7 +40,7 @@
   <p>PHP</p>
   <p>MySQL</p>
   <p>Visual Studio Code</p>
-  <p>MAMP</p>
+  <p>MAMP(Apache Web Server)</p>
   <p>Git Version Control & Azure</p>
  
  <h3 align="left">Instruction:</h3>

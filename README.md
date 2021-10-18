@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there here goes below my Project summary 👋
 
-<!--
-**koushik80/koushik80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Introduction:
+Project for building a dynamic website for a Sourcing Company
 
-Here are some ideas to get you started:
+Description: 
+The website is made for a company Navana includes blog and user registration system. It was created as the basis for my training project. The implementation strives to be simple. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Goals:
+
+Instruction:
+
+
+Contributing:
+
+
+License: MIT
+

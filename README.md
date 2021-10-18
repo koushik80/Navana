@@ -1,8 +1,8 @@
-## Hi there here goes below my Project summary 👋
+# Hi there here goes below my Project information 👋
 
 # Table of Content:
 
-   Introduction
+   Title
    Description
    Goals
    Tecnologies
@@ -11,17 +11,16 @@
    Login System
    Contributing
    License
+<h1 align="center">Project title</h1>
 
-
-
- # Introduction:
+ Title:
 
   • Project for building a dynamic website for a Sourcing Company
 
  Description: 
 
-  • The website is made for a company Navana includes blog and user registration system. It was created as the basis for my training project. The implementation         strives to be simple.
-  
+  • The website is made for a company Navana includes blog and user registration and login system. It was created as the basis for my training project. The  
+    implementation strives to be simple.
   Goals:
  
   • To learn and build dynamic webpage
@@ -34,7 +33,7 @@
   • Deployment in Azure
   • Contact with the company
   • Gain knowledge of frontend and backend concepts
-  •
+  
   
  Tecnologies
  
@@ -43,6 +42,8 @@
   • JS
   • PHP
   • MySQL
+  • Visual Studio Code
+  • MAMP
   • Git Version Control & Azure
  
  Instruction:

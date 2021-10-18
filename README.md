@@ -2,18 +2,18 @@
 
 <h1 align="center">Table of Content</h1>
 
-   <p>Description,</p>
-   <p>Goals,</p>
-   Tecnologies,
-   Instruction,
-   User Registration & Login System Features,
-   Login System,
-   Contributing,
-   License,
+   <p>Description</p>
+   <p>Goals</p>
+   <p>Tecnologies</p>
+   <p>Instruction</p>
+   <P>User Registration & Login System Features</p>
+   <p>Login System</p>
+   <p>Contributing</p>
+   <p>License</p>
    
 <h2 align="center">Project for building a dynamic website for a Sourcing Company</h2>
 
- <h2 align="left">Description:</h3>
+<h3 align="left">Description:</h3>
 
   • The website is made for a company Navana includes blog and user registration and login system. It was created as the basis for my training project. 
     The implementation strives to be simple.

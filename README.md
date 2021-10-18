@@ -31,54 +31,50 @@
   <p>Contact with the company</p>
   <p>Gain knowledge of frontend and backend concepts</p>
   
-  
- Tecnologies
+  <h3 align="left">Tecnologies:</h3>
  
-  • HTML
-  • CSS
-  • JS
-  • PHP
-  • MySQL
-  • Visual Studio Code
-  • MAMP
-  • Git Version Control & Azure
+  <p>HTML</p>
+  <p>CSS</p>
+  <p>JS</p>
+  <p>PHP</p>
+  <p>MySQL</p>
+  <p>Visual Studio Code</p>
+  <p>MAMP</p>
+  <p>Git Version Control & Azure</p>
  
- Instruction:
+ <h3 align="left">Instruction:</h3>
+   
+  <p> </p>
 
-  •	
-  •	
-  •	
+ <h3 align="left">User Registration & Login System Features:</h3>
+
+  <p>Connecting MySQL database with PHP project</p>
+  <p>Building user registration form with Bootstrap</p>
+  <p>PHP server-side validation</p>
+  <p>Handling error messages</p>
+  <p>Securely hash password</p>
+  <p>Sending verification</p> 
   
-
- User Registration & Login System Features:
-
-  • Connecting MySQL database with PHP project
-  • Building user registration form with Bootstrap
-  • PHP server-side validation
-  • Handling error messages
-  • Securely hash password
-  • Sending verification 
+  <h3 align="left">Login System:</h3>
   
-  Login System
+ <p>Build login form with Bootstrap</p>
+ <p>Password verification</p>
+ <p>Reset password for forgotten password</p>
+ <p>Storing data in session</p>
+ <p>Allowing access to only verified users</p>
+ <p>Display user data to logged-in users</p>
+ <p>Building logout</p>
+
+<h3 align="left">Contribution:</h3>
   
- •	Build login form with Bootstrap
- •	Password verification
- • Reset password for forgotten password
- •	Storing data in session
- •	Allowing access to only verified users
- •	Display user data to logged-in users
- •	Building logout
+ <p>Open issue</p>
+ <p>Discuss proposal</p>
+ <p>Change code and update tests</p>
+ <p>Review changes</p>
+ <p>Send pull request</p>
+ <p>Commit</p>
 
-  Contribution:
-
- • Open issue
- • Discuss proposal
- •	Change code and update tests
- •	Review changes
- •	Send pull request
- •	Commit
-
-  License: 
+<h3 align="left">License:</h3>
   
-  • MIT
+  <p>MIT</p>
 

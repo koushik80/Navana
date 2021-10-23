@@ -30,6 +30,7 @@
   <p>Version Control</p>
   <p>Deployment in Azure</p>
   <p>Contact with the company</p>
+  <p>Feedback to the company with choice of contact(optional)</p>
   <p>Gain knowledge of frontend and backend concepts</p>
   
   <h3 align="left">Tecnologies:</h3>

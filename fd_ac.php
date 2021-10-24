@@ -1,5 +1,5 @@
 <?php
-$conn = mysqli_connect("localhost", "root","", "userform");
+$conn = mysqli_connect("localhost", "root","root", "userform");
 
 $q_score = $_POST['quality'];
 $feedback_txt = $_POST['suggestion'];

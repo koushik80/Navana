@@ -1,8 +1,8 @@
 <?php
 // connect to the database
-$hostname = "koushikd.azurewebsites.net";
+$hostname = "root";
 $username = "KoushikD";
 $password = " ";
 $dbname = "userform";
-$con = mysqli_connect('koushikd.azurewebsites.net', 'KoushikD', ' ', 'userform');
+$con = mysqli_connect('rot', 'KoushikD', ' ', 'userform');
 ?>

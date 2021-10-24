@@ -6,7 +6,7 @@ if(!empty($_POST["send"])) {
 	$subject = $_POST["subject"];
 	$content = $_POST["content"];
 
-	$conn = mysqli_connect("localhost", "root", "root", "userform") or die("Connection Error: " . mysqli_error($conn));
+	$conn = mysqli_connect("localhost", "root", " ", "userform") or die("Connection Error: " . mysqli_error($conn));
 	mysqli_query($conn, "INSERT INTO tblcontact (user_name, user_email, organization, subject, content) VALUES ('" . $name. "', '" . $email. "', '" . $organization. "', '" . $subject. "','" . $content. "')");
 	$insert_id = mysqli_insert_id($conn);
 	//if(!empty($insert_id)) {

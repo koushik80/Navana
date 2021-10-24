@@ -1,0 +1,119 @@
+html,
+body {
+    background: #FADBD8;
+    font-family: 'Poppins', sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    position: absolute;
+    display: block;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+    padding: 20px 30px;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+input {
+    padding: 5px 10px;
+    margin-bottom: 5px;
+}
+
+input[type="submit"] {
+    border: none;
+    outline: none;
+    background-color: #F5B7B1;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    border-radius: 3px;
+}
+
+input[type="submit"]:hover {
+    background: #2ECC71;
+}
+
+.heading {
+    background-color: #CD5C5C;
+    color: white;
+    height: 70px;
+    width: 100%;
+    line-height: 40px;
+    text-align: center;
+    font-size: 35px;
+    padding: 15px 25px;
+    position: relative;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+.main-content {
+    display: flex;
+    flex-direction: column;
+    border-radius: 7px;
+    padding: 5px 10px;
+    z-index: 2;
+    box-shadow: 0px -1px 4px 1px #C0C0C0;
+    position: relative;
+    margin: 0 auto;
+}
+
+#name,
+#email,
+#phone {
+    display: block;
+    width: 100%;
+    color: #000000;
+    background-color: #FDFEFE;
+    border: 1px solid #C0C0C0;
+    border-radius: 5px;
+    font-size: 17px;
+    box-shadow: 0px -1px 4px 1px #C0C0C0;
+    padding: 5px 10px;
+}
+
+.label {
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+::placeholder {
+    color: #99A3A4;
+    opacity: 1;
+}
+
+ :-ms-input-placeholder {
+    color: #99A3A4;
+}
+
+ ::-ms-input-placeholder {
+    color: #99A3A4;
+    opacity: 1;
+}
+
+textarea {
+    min-height: 150px;
+    width: 100%;
+    padding: 0.625rem;
+    resize: vertical;
+    box-shadow: 0px -1px 4px 1px #C0C0C0;
+    border-radius: 5px;
+}
+
+.pic {
+    width: 33%;
+    float: left;
+    display: flex;
+    flex-direction: row;
+}

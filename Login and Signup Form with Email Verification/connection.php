@@ -4,5 +4,5 @@ $hostname = "localhost";
 $username = "root";
 $password = "root";
 $dbname = "userform";
-$con = mysqli_connect('localhost', 'root', 'root', 'userform');
+$con = mysqli_connect('localhost', 'root', '', 'userform');
 ?>

@@ -45,8 +45,8 @@ date_default_timezone_set('Etc/UTC');
     //Read an HTML message body from an external file, convert referenced images to embedded,
     //convert HTML into a basic plain-text alternative body
     $mail->isHTML(true);                                  //Set email format to HTML
-    $mail->Subject = 'Navana Trading! Contact successful!';
-    $mail->Body    = 'Welcome! '.$name.'<br> Thank you for contacting us!';
+    $mail->Subject = 'Navana Trading. Contact successful!';
+    $mail->Body    = 'Welcome! <br> Thank you for contacting us.';
     //Replace the plain text body with one created manually
     $mail->AltBody = 'Hello! Thank you for contacting us!';
     

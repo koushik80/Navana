@@ -10,7 +10,7 @@ if(!empty($_POST["send"])) {
 	mysqli_query($conn, "INSERT INTO tblcontact (user_name, user_email, organization, subject, content) VALUES ('" . $name. "', '" . $email. "', '" . $organization. "', '" . $subject. "','" . $content. "')");
 	$insert_id = mysqli_insert_id($conn);
 	//if(!empty($insert_id)) {
-	   $message = "Your contact information is saved successfully.";
+	   $message = "Message sent. Your contact information is saved successfully.";
 	   $type = "success";
 	//}
 }

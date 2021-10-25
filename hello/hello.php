@@ -49,12 +49,5 @@ date_default_timezone_set('Etc/UTC');
     $mail->Body    = 'Welcome! <br> Thank you for contacting us.';
     //Replace the plain text body with one created manually
     $mail->AltBody = 'Hello! Thank you for contacting us!';
-    
-    //send the message, check for errors
-    if (!$mail->send()) {
-        echo "Mailer Error: " . $mail->ErrorInfo;
-    } else {
-        echo "Message sent!";
-    }
 
 ?>

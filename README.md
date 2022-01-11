@@ -1,7 +1,7 @@
                                # Hi there! here goes below my Project information 👋
-                               <div><a href="https://koushikd.azurewebsites.net">Navana</a></div>
-
                                
+
+<div align="center"><a href="https://koushikd.azurewebsites.net">Navana</a></div>                               
 <h1 align="center">Table of Content</h1>
  
    <p>Title</p>
@@ -18,8 +18,8 @@
 
 <h3 align="left">Description:</h3>
 
-  <p>The website is made for a company Navana includes blog and user registration and login system. It was created as the basis for my training project. 
-     The implementation strives to be simple.</p>
+<p>The website is made for a company Navana includes blog and user registration and login system. It was created as the basis for my training project. 
+   The implementation strives to be simple.</p>
     
 <h3 align="left"> Goals:</h3>
  

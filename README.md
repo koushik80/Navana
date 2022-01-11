@@ -13,7 +13,7 @@
    <p>License</p>
    
 <h2 align="center">Project for building a dynamic website for a Sourcing Company</h2>
-<div><a href="https://koushikd.azurewebsites.net"></a>Navana</div>
+<div><a href="https://koushikd.azurewebsites.net">Navana</a></div>
 
 
 <h3 align="left">Description:</h3>

@@ -18,7 +18,7 @@
 
 <h3 align="left">Description:</h3>
 
-<p>The website is made for a company Navana includes blog and user registration and login system. It was created as the basis for my training project. 
+<p>The website is made for a company named Navana includes blog and user registration and login system. It was created as the basis for my training project. 
    The implementation strives to be simple.</p>
     
 <h3 align="left"> Goals:</h3>
